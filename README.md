@@ -13,7 +13,8 @@ Morse code is based on a binary system, where each character is composed of a co
                                                                                                      *a dot (.)
                                                                                                      *and a dash (-).
 A dot is the shortest element also called a dit, and it lasts for one unit of time. A dash is the longer element, also called dah, and it lasts for three units of time
-wires were strung in United State for people to communicate and get messages as soon as possible
+wires were strung in United State for people to communicate and get messages as soon as possible 
+https://www.britannica.com/topic/Morse-Code
 
 THE HISTORY CONTEXT OF MORSE CODE:
 
@@ -22,3 +23,24 @@ Before the advent of Morse code, communication over long distances was limited t
 Morse code revolutionized communication by enabling messages to be transmitted almost instantaneously over telegraph lines.
 Its adoption facilitated the growth of telegraph networks worldwide and played a crucial role in connecting people and businesses across vast distances.
 As a result, Morse code became an indispensable tool in telecommunication and laid the groundwork for modern forms of long-distance communication.
+Morse, originally a painter, became obsessed with speeding up communication after learning about electromagnetic telegraphy and experiencing a personal tragedy he lost his wife while away and he only found out weeks later.
+This motivated him to develop a system that could send messages instantly over long distances.
+The first official Morse code transmission occurred on May 24, 1844, when Morse sent the message "What hath God wrought" from Washington, D.C., to Baltimore.
+The system quickly became the standard for telegraph communication, revolutionizing industries like railroads and or military 
+
+https://worldofhistorycheatsheet.com/history-of-morse-code/
+
+how the morse code system works
+
+How It Works:
+* Dots and Dashes: A dot is a short signal, while a dash is a longer signal (typically three times the length of a dot).
+* Spacing Rules:
+* Each dot or dash is followed by a short pause.
+* Letters within a word are separated by a longer pause (equal to three dots).
+* Words are separated by an even longer pause (equal to seven dots).
+* Transmission Methods: Morse code can be sent using sound, light, or electrical pulses. It was originally used with telegraphs, but later adapted for radio communication, aviation, and emergency signaling.
+  e.g:
+- A → .-
+- B → -...
+- SOS (distress signal) → ... --- ...
+https://science.howstuffworks.com/innovation/inventions/morse-code.htm
